@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-items: center;
     background: #F0E148;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 canvas {
